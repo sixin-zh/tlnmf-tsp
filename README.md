@@ -20,5 +20,9 @@ Reproduce the results in this paper
 conda install -c conda-forge librosa
 conda install numba==0.48
 pip install soundfile
-python setup.py install # install tlnmf in tlnmf_tsp/ and qn for JD in qndiag_tsp/
+# Install tlnmf 
+python setup.py install 
+# Install QN for JD
+cd qndiag 
+python setup.py install
 ```
