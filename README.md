@@ -1,4 +1,6 @@
-# Results of Leveraging Joint-Diagonalization in Transform-Learning NMF
+# Leveraging Joint-Diagonalization in Transform-Learning NMF
+
+Reroduce the results in this paper
 
 ## Computations
 
