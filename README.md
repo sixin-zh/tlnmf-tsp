@@ -17,12 +17,13 @@ Reproduce the results in this paper
 ## Env: python3
 
 ```
-conda install -c conda-forge librosa
-conda install numba==0.48
-pip install soundfile
 # Install tlnmf 
 python setup.py install 
 # Install QN for JD
 cd qndiag 
 python setup.py install
+# Optional packages
+conda install -c conda-forge librosa
+conda install numba==0.48
+pip install soundfile
 ```
